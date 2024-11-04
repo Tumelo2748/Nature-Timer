@@ -6,7 +6,7 @@ interface TimerState {
 }
 
 const state: TimerState = {
-  minutes: 1,
+  minutes: 25,
   seconds: 0,
   isRunning: false,
   interval: null
